@@ -1,0 +1,41 @@
+.main-cnt{
+    height: 200px;
+    width: 250px;
+    border: 1px solid;
+    font-family:Arial, Helvetica, sans-serif;
+    margin: auto;
+}
+
+.up{
+    height: 150px;
+    width: 100%;
+    /* background-color: antiquewhite; */
+    box-sizing: border-box;
+    text-align: center;
+    line-height: 13px;
+}
+
+.fa-solid{
+    color: red;
+    font-size: 40px;
+    padding: 20px 0 0 0;
+}
+
+.msg{
+    font-size: 20px;
+    color: black;
+}
+p{
+    font-size: 10px;
+    color: gray;
+}
+
+.down{
+    height: 50px;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 15px 0 0 0;
+}
